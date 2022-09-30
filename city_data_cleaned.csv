@@ -1,0 +1,31 @@
+city,state_id,state_name,lat,lng,Abbreviation
+New York,NY,New York,40.6943,-73.9249,NYK
+Los Angeles,CA,California,34.1141,-118.4068,LAC
+Chicago,IL,Illinois,41.8375,-87.6866,CHI
+Miami,FL,Florida,25.784,-80.2101,MIA
+Dallas,TX,Texas,32.7935,-96.7667,DAL
+Houston,TX,Texas,29.786,-95.3885,HOU
+Philadelphia,PA,Pennsylvania,40.0077,-75.1339,PHI
+Atlanta,GA,Georgia,33.7628,-84.422,ATL
+Washington,DC,District of Columbia,38.9047,-77.0163,WAS
+Boston,MA,Massachusetts,42.3188,-71.0852,BOS
+Phoenix,AZ,Arizona,33.5722,-112.0892,PHX
+Detroit,MI,Michigan,42.3834,-83.1024,DET
+San Francisco,CA,California,37.7558,-122.4449,GSW
+Seattle,WA,Washington,47.6211,-122.3244,SEA
+Minneapolis,MN,Minnesota,44.9635,-93.2678,MIN
+Brooklyn,NY,New York,40.6501,-73.9496,BRK
+Denver,CO,Colorado,39.762,-104.8758,DEN
+Portland,OR,Oregon,45.5371,-122.65,POR
+San Antonio,TX,Texas,29.4632,-98.5238,SAS
+Sacramento,CA,California,38.5677,-121.4685,SAC
+Orlando,FL,Florida,28.4773,-81.337,ORL
+Cleveland,OH,Ohio,41.4764,-81.6805,CLE
+Indianapolis,IN,Indiana,39.7771,-86.1458,IND
+Charlotte,NC,North Carolina,35.2083,-80.8303,CHA
+Milwaukee,WI,Wisconsin,43.0642,-87.9675,MIL
+Salt Lake City,UT,Utah,40.7776,-111.9311,UTA
+Memphis,TN,Tennessee,35.1087,-89.9663,MEM
+New Orleans,LA,Louisiana,30.0687,-89.9288,NOH
+Oklahoma City,OK,Oklahoma,35.4676,-97.5136,OKC
+Toronto,Canada,None,43.741667,-79.373333,TOR
